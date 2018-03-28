@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/CSC 540/Wine Quality",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

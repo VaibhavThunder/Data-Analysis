@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519227709934.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "867623567",
+    "id" : "2268A416",
+    "lastKnownWriteTime" : 1519851034,
+    "last_content_update" : 1519851034326,
+    "path" : "~/Documents/CSC 510/LetterRecognisition/CorrelationMatrix.R",
+    "project_path" : "CorrelationMatrix.R",
+    "properties" : {
+        "cursorPosition" : "94,49",
+        "scrollLine" : "78",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

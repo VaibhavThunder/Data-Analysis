@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518994755910.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1542239137",
+    "id" : "729B3B66",
+    "lastKnownWriteTime" : 1519000865,
+    "last_content_update" : 1519000865250,
+    "path" : "~/Documents/CSC 540/Wine Quality/wineQuality.R",
+    "project_path" : "wineQuality.R",
+    "properties" : {
+        "cursorPosition" : "69,48",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
